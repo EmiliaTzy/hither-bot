@@ -80,3 +80,6 @@ old = ["old", "old wolf", "old wuff"]
 imp = ["imp", "impostor"]
 surv = ["survivor", "surv"]
 amne = ["amnesiac", "amne", "amnesic"]
+kz = ["kz", "kamikaze"]
+alche = ["alche", "alchemist"]
+#blood roles
