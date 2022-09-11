@@ -371,7 +371,7 @@ def main():
     GamesController.init()
     MsgController.init()
 
-    updater = Updater(TOKEN, use_context=True)
+    updater = Updater(2131996233:AAHM9RjxmqCGSwPR93vdRYRZCAn19mIr7ug, use_context=True)
 
     dp = updater.dispatcher
 
