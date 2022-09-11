@@ -164,5 +164,9 @@ def get_emoji(claim):
         return "⛺️ " 
     elif claimed.lower() in roles.amne:
         return "🤔 " 
+    elif claimed.lower() in roles.kz:
+        return "🧨 " 
+    elif claimed.lower() in roles.alchemist:
+        return "🧪 "
     else:
         return ""
